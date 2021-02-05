@@ -1,7 +1,8 @@
 # CineMatch
 Check out [CineMatch](http://cinematch.s3-website-us-east-1.amazonaws.com/) online! Use FireFox for the best experience.
 
-Also checkout the [Front End](https://github.com/2012JavaReston/MovieApp-FrontEnd)
+For the [Front End](https://github.com/2012JavaReston/MovieApp-FrontEnd)
+For the [Back End](https://github.com/2012JavaReston/MovieApp-BackEnd)
 
 ## Project Description
 
