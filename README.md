@@ -40,14 +40,8 @@ User can:
 
 ## Getting Started
 
-1. Make sure you have an IDE and JDK installed.
-2. Run `git clone https://github.com/2012JavaReston/MovieApp-BackEnd.git`
-3. Run the Driver in src/main/java/com/revature 
-
-From there you should be able to ping the endpoints using the FrontEnd for the project.
-
-Navigate to [MovieApp-FrontEnd](https://github.com/2012JavaReston/MovieApp-FrontEnd) and follow their set 'Getting Started' guide.
+1. See each individual repo for their respective 'Getting Started' guides
 
 ## Contributors
 
-Brandon Moore, Anthony McKenzie, Andrew Gee, Mohammad Al Lami
+Anthony McKenzie, Jeff Enriquez, Andrew Gee, Mohammad Al Lami, Brandon Moore, Ryan Murray, Alec Sherlock, Lester Young
